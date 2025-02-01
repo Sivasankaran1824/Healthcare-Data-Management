@@ -1,6 +1,6 @@
 -- Create Databases
 CREATE DATABASE medical;
-
+ 
 USE medical;
 
 -- Create Patients Table
